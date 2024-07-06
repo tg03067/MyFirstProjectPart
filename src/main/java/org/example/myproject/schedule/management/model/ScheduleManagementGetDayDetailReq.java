@@ -1,9 +1,9 @@
 package org.example.myproject.schedule.management.model;
 
-import com.green.greenfirstproject.common.page.Paging;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Getter;
 import lombok.Setter;
+import org.example.myproject.common.page.Paging;
 
 @Getter
 @Setter

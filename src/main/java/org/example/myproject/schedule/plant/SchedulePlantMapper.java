@@ -1,9 +1,10 @@
 package org.example.myproject.schedule.plant;
 
-import com.green.greenfirstproject.schedule.plant.model.*;
 import org.apache.ibatis.annotations.Mapper;
+import org.example.myproject.schedule.plant.model.*;
 
 import java.util.List;
+
 
 @Mapper
 public interface SchedulePlantMapper {
